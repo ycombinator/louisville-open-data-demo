@@ -19,6 +19,6 @@ the City of Louisville, Kentucky, USA's [open data web site](https://data.louisv
 
 4. Open Kibana in your browser.
 
-  1. Go to the Settings tab > Objects > Import. Import the `kb/export.json` file. This will load the necessary Kibana objects (dashboards, etc.).
+  1. Go to [Settings > Objects](http://localhost:5601/app/kibana#/settings/objects) and click on Import. Import the `kb/export.json` file. This will load the necessary Kibana objects (dashboards, etc.).
 
-  2. Go to the Dashboard tab and open the 'Louisville Business Inspections' dashboard.
+  2. Open the [Louisville Business Inspections dashboard](http://localhost:5601/app/kibana?#/dashboard/Louisville-Business-Inspections).
